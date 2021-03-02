@@ -16,3 +16,9 @@
     color: white;
     text-align: center;
 }
+
+#children-wrapper{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
